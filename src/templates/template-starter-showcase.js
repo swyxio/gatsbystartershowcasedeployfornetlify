@@ -300,7 +300,7 @@ class StarterTemplate extends React.Component {
                     <div key={dep} css={{
                       ...styles.truncate,
                       marginBottom: '1rem'
-                    }}> <a href={`https://npm.im/${dep}`}><FaExtLink /> {dep}</a></div>
+                    }}> <a href={`https://npm.im/${dep}`}>{dep} <FaExtLink /></a></div>
                   )}
                   {showMore &&
                     <button
