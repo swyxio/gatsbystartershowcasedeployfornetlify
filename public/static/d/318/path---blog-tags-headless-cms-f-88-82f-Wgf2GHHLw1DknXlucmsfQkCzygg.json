@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2018-2-6-choosing-a-back-end/"},"frontmatter":{"title":"Picking a back-end for GatsbyJS"}}},{"node":{"fields":{"slug":"/blog/2018-2-3-sites-with-headless-cms/"},"frontmatter":{"title":"Building Sites with Headless CMSs"}}}]}},"pageContext":{"tag":"headless-cms"}}

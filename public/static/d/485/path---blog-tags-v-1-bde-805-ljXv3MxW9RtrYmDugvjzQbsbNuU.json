@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2017-09-26-embracing-graphql/"},"frontmatter":{"title":"Embracing GraphQL — How I migrated React FAQ to Gatsby v1"}}},{"node":{"fields":{"slug":"/blog/2017-09-21-community-roundup-1/"},"frontmatter":{"title":"Community Roundup #1"}}}]}},"pageContext":{"tag":"v1"}}

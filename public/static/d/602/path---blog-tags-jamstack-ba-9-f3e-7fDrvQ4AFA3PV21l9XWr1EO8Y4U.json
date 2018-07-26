@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2018-2-7-jam-out-your-blog/"},"frontmatter":{"title":"JAM Out Your Blog - Gatsby + Prose + Netlify"}}},{"node":{"fields":{"slug":"/blog/2018-2-6-choosing-a-back-end/"},"frontmatter":{"title":"Picking a back-end for GatsbyJS"}}}]}},"pageContext":{"tag":"jamstack"}}
